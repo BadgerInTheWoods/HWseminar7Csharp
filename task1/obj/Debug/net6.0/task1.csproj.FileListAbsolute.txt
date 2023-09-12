@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\bin\Debug\net6.0\task1.exe
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\bin\Debug\net6.0\task1.deps.json
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\bin\Debug\net6.0\task1.runtimeconfig.json
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\bin\Debug\net6.0\task1.dll
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\bin\Debug\net6.0\task1.pdb
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.AssemblyInfo.cs
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.dll
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\refint\task1.dll
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.pdb
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\task1.genruntimeconfig.cache
+C:\Users\Alex\Desktop\GeekBrains\HW\seminar7CsharpHW\task1\obj\Debug\net6.0\ref\task1.dll
